@@ -12,23 +12,23 @@
     "env": {
         "BOT_TOKEN": {
             "description": "@BotFather'dan alın",
-            "required": true
+            "required": 6622253576:AAHrEGo7wNrX7rs5I20g-hXsN5ynNwf8bGc
         },
         "BOT_USERNAME": {
             "description": "Botunuzun kullanıcı adı",
-            "required": true
+            "required": @affetmezlerdini_bot
         },
         "API_ID": {
             "description": "https://my.telegram.org/apps adresinden alın",
-            "required": true
+            "required": 23342734
         },
         "API_HASH": {
             "description": "https://my.telegram.org/apps adresinden alın",
-            "required": true
+            "required": 82ff606d717557e233b3bfdf82e0e74e
         },
         "SUDO": {
             "description": "Telegram id'niz",
-            "required": false
+            "required": 6683031701
         }
     },
     "buildpacks": [
